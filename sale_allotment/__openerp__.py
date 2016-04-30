@@ -25,7 +25,7 @@
     'version': '8.0.1.1',
     'category': 'Sales',
     'summary': "Separate the shipment according to allotment partner",
-    'author': u'Openies,Numérigraphe,Odoo Community Association (OCA)',
+    'author': u'Openies Services,Numérigraphe,Odoo Community Association (OCA)',
     'website': 'http://www.Openies.com/',
     'depends': ['sale_stock'],
     'data': [
